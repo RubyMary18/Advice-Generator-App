@@ -124,8 +124,19 @@ li {
 /*=================================
   main styling starts here
 =================================*/
+.container { 
+  height: 100vh;
+  background: #212632;
+}
 
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.wrapper { background: #303A49; }
 
 
 
