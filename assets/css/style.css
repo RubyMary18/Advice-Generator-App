@@ -96,7 +96,7 @@ li {
 }
 /* Common styling */
 .grey { color: #666; }
-.cap { text-transform: capitalize; }
+.cap { text-transform: caspitalize; }
 .up { text-transform: uppercase; }
 .center { text-align: center; }
 .bold { font-weight: bold; }
@@ -124,9 +124,6 @@ li {
 /*=================================
   main styling starts here
 =================================*/
-
-
-
 
 
 
